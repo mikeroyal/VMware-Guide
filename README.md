@@ -11,37 +11,37 @@
  
 # Table of Contents
 
-1. [VMware Learning Resources](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-learning-resources)
+1. [VMware Learning Resources](https://github.com/mikeroyal/VMware-Guide#vmware-learning-resources)
 
-2. [VMware Tools](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-tools)
+2. [VMware Tools](https://github.com/mikeroyal/VMware-Guide#vmware-tools)
 
-3. [VMware Devops Tools Integration](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-devops-tools-integration)
+3. [VMware Devops Tools Integration](https://github.com/mikeroyal/VMware-Guide#vmware-devops-tools-integration)
  
-4. [Networking](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#networking)
+4. [Networking](https://github.com/mikeroyal/VMware-Guide#networking)
 
-5. [Databases](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#databases)
+5. [Databases](https://github.com/mikeroyal/VMware-Guide#databases)
 
-6. [Telco 5G](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#telco-5g)
+6. [Telco 5G](https://github.com/mikeroyal/VMware-Guide#telco-5g)
 
-7. [Open Source Security](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#open-source-security)
+7. [Open Source Security](https://github.com/mikeroyal/VMware-Guide#open-source-security)
 
-8. [Kubernetes](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#kubernetes)
+8. [Kubernetes](https://github.com/mikeroyal/VMware-Guide#kubernetes)
 
-9. [Machine Learning](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#machine-learning)
+9. [Machine Learning](https://github.com/mikeroyal/VMware-Guide#machine-learning)
 
-10. [Node.js Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#nodejs-development)
+10. [Node.js Development](https://github.com/mikeroyal/VMware-Guide#nodejs-development)
 
-11. [Java Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#java-development)
+11. [Java Development](https://github.com/mikeroyal/VMware-Guide#java-development)
 
-12. [Go Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#go-development)
+12. [Go Development](https://github.com/mikeroyal/VMware-Guide#go-development)
 
-13. [Python Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#python-development)
+13. [Python Development](https://github.com/mikeroyal/VMware-Guide#python-development)
 
-14. [TypeScript Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#typescript-development)
+14. [TypeScript Development](https://github.com/mikeroyal/VMware-Guide#typescript-development)
 
-15. [.NET Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#net-development)
+15. [.NET Development](https://github.com/mikeroyal/VMware-Guide#net-development)
 
-16. [Bash/PowerShell Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#bashpowershell-development)
+16. [Bash/PowerShell Development](https://github.com/mikeroyal/VMware-Guide#bashpowershell-development)
 
  <img src="https://user-images.githubusercontent.com/45159366/115159594-cb125d80-a048-11eb-8cfb-fa6c632a09d2.png">
  
@@ -53,7 +53,7 @@
 
 # VMware Learning Resources
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 [VMware](https://www.vmware.com/) is a cloud computing and virtualization technology company. Dell owns a 81% stake in VMware, which it picked up in its [2016 acquisition of EMC(data storage hardware maker) for $58 billion](https://en.wikipedia.org/wiki/Dell_EMC).
 
@@ -94,7 +94,7 @@
 
 # VMware Tools
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 
 [VMware PowerCLI](https://code.vmware.com/web/tool/12.3.0/vmware-powercli) is a command-line and scripting tool built on Windows PowerShell, and provides more than 800 cmdlets for managing and automating vSphere, VMware Cloud Director, vRealize Operations Manager, vSAN, NSX-T Data Center, VMware Cloud Services, VMware Cloud on AWS, VMware HCX, VMware Site Recovery Manager, and VMware Horizon environments.
@@ -278,7 +278,7 @@ Workspace ONE](https://www.vmware.com/products/workspace-one.html) is an intelli
 
 # VMware DevOps Tools Integration
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 
 [Open Container Initiative](https://opencontainers.org/about/overview/) is an open governance structure for the express purpose of creating open industry standards around container formats and runtimes.
@@ -519,7 +519,7 @@ Workspace ONE](https://www.vmware.com/products/workspace-one.html) is an intelli
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 ## Networking Learning Resources
   
@@ -673,7 +673,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Databases
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 ## Database Learning Resources
 
@@ -779,7 +779,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Telco 5G
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <img src="https://user-images.githubusercontent.com/45159366/105409952-14881380-5be6-11eb-84fc-b07db69698ed.png">
  
@@ -876,7 +876,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Open Source Security
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 
 [Open Source Security Foundation (OpenSSF)](https://openssf.org/) is a cross-industry collaboration that brings together leaders to improve the security of open source software by building a broader community, targeted initiatives, and best practices. The OpenSSF brings together open source security initiatives under one foundation to accelerate work through cross-industry support. Along with the Core Infrastructure Initiative and the Open Source Security Coalition, and will include new working groups that address vulnerability disclosures, security tooling and more.
@@ -1042,7 +1042,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Kubernetes
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 [Kubernetes (K8s)](https://kubernetes.io/) is an open-source system for automating deployment, scaling, and management of containerized applications. [Installing Kubernetes on Ubuntu](https://ubuntu.com/kubernetes/install).
 
@@ -1169,7 +1169,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Machine Learning
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <img src="https://user-images.githubusercontent.com/45159366/108111395-756e0480-7049-11eb-85ca-b87315e9d3ef.jpeg">
 
@@ -1259,7 +1259,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Node.js Development
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719688-0becd700-fb39-11ea-9b87-3d52f1828aee.png">
@@ -1338,7 +1338,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Java Development
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93925952-c0b6fd80-fccb-11ea-9f90-21c4148e3c86.png">
@@ -1441,7 +1441,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Go Development
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719679-068f8c80-fb39-11ea-8baa-9e779ee58a0a.png">
@@ -1519,7 +1519,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Python Development
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133273-ce490380-f68b-11ea-81d0-7f6a3debe6c0.png">
@@ -1642,7 +1642,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # TypeScript Development
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93133287-d1dc8a80-f68b-11ea-94d3-bba83dd5b0bb.png">
@@ -1730,7 +1730,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # .NET Development
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719689-0d1e0400-fb39-11ea-82e5-331a8ff8060d.png">
@@ -1796,7 +1796,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Bash/PowerShell Development
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/95128610-89564100-070e-11eb-83de-9697fb490886.png">
@@ -1860,6 +1860,6 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#table-of-contents)
+[Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
