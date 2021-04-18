@@ -11,37 +11,37 @@
  
 # Table of Contents
 
-1. [VMware Learning Resources](https://github.com/mikeroyal/VMware-Guide#vmware-learning-resources)
+1. [VMware Learning Resources](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-learning-resources)
 
-2. [VMware Tools](https://github.com/mikeroyal/VMware-Guide#vmware-tools)
+2. [VMware Tools](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-tools)
 
-3. [VMware Devops Tools Integration](https://github.com/mikeroyal/VMware-Guide#vmware-devops-tools-integration)
+3. [VMware Devops Tools Integration](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-devops-tools-integration)
  
-4. [Networking](https://github.com/mikeroyal/VMware-Guide#networking)
+4. [Networking](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#networking)
 
-5. [Databases](https://github.com/mikeroyal/VMware-Guide#databases)
+5. [Databases](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#databases)
 
-6. [Telco 5G](https://github.com/mikeroyal/VMware-Guide#telco-5g)
+6. [Telco 5G](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#telco-5g)
 
-7. [Open Source Security](https://github.com/mikeroyal/VMware-Guide#open-source-security)
+7. [Open Source Security](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#open-source-security)
 
-8. [Kubernetes](https://github.com/mikeroyal/VMware-Guide#kubernetes)
+8. [Kubernetes](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#kubernetes)
 
-9. [Machine Learning](https://github.com/mikeroyal/VMware-Guide#machine-learning)
+9. [Machine Learning](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#machine-learning)
 
-10. [Node.js Development](https://github.com/mikeroyal/VMware-Guide#nodejs-development)
+10. [Node.js Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#nodejs-development)
 
-11. [Java Development](https://github.com/mikeroyal/VMware-Guide#java-development)
+11. [Java Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#java-development)
 
-12. [Go Development](https://github.com/mikeroyal/VMware-Guide#go-development)
+12. [Go Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#go-development)
 
-13. [Python Development](https://github.com/mikeroyal/VMware-Guide#python-development)
+13. [Python Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#python-development)
 
-14. [TypeScript Development](https://github.com/mikeroyal/VMware-Guide#typescript-development)
+14. [TypeScript Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#typescript-development)
 
-15. [.NET Development](https://github.com/mikeroyal/VMware-Guide#net-development)
+15. [.NET Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#net-development)
 
-16. [Bash/PowerShell Development](https://github.com/mikeroyal/VMware-Guide#bashpowershell-development)
+16. [Bash/PowerShell Development](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#bashpowershell-development)
 
  <img src="https://user-images.githubusercontent.com/45159366/115159594-cb125d80-a048-11eb-8cfb-fa6c632a09d2.png">
  
