@@ -11,11 +11,11 @@
  
 # Table of Contents
 
-1. [VMware Learning Resources](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#openshift-learning-resources)
+1. [VMware Learning Resources](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-learning-resources)
 
-2. [VMware Tools](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#openshift-tools)
+2. [VMware Tools](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-tools)
 
-3. [VMware Devops Tools Integration](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#openshift-devops-tools-integration)
+3. [VMware Devops Tools Integration](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#vmware-devops-tools-integration)
  
 4. [Networking](https://github.com/mikeroyal/VMware-Guide/blob/main/README.md#networking)
 
