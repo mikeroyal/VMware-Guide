@@ -55,7 +55,7 @@
 
 [Back to the Top](https://github.com/mikeroyal/VMware-Guide#table-of-contents)
 
-[VMware](https://www.vmware.com/) is a cloud computing and virtualization technology company. Dell owns a 81% stake in VMware, which it picked up in its [2016 acquisition of EMC(data storage hardware maker) for $58 billion](https://en.wikipedia.org/wiki/Dell_EMC).
+[VMware](https://www.vmware.com/) is a cloud computing and virtualization technology company. Dell owns a 81% stake in VMware, which it picked up in its [2016 acquisition of EMC(data storage hardware maker) for $67 billion](https://en.wikipedia.org/wiki/Dell_EMC).
 
 [VMware GitHub](https://github.com/vmware)
 
