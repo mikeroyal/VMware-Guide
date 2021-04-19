@@ -47,7 +47,7 @@
  
 **VMware Horizon Cloud with Hosted Infrastructure Networking Overview. Source: [VMware](https://blogs.vmware.com/euc/2017/05/vmware-horizon-cloud-hosted-infrastructure-networking-overview.html)**
 
- <img src="https://user-images.githubusercontent.com/45159366/115159593-c9e13080-a048-11eb-80af-1aae32d49258.png">
+ <img src="https://user-images.githubusercontent.com/45159366/115299303-7a1b6b80-a113-11eb-9df6-f5951d8d2c83.png">
  
 **VMware Multi-Cloud Optimization Strategy. Source: [VMware](https://www.vmware.com/content/microsites/possible/stories-uk/maximizing-the-value-of-multi-cloud.html)**
 
