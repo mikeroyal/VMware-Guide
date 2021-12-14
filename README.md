@@ -8,6 +8,10 @@
  
  **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/146077314-c409aa21-4bdc-43e8-82d2-1a2fcc06f055.png">
+  <br />
+</p>
  
 # Table of Contents
 
